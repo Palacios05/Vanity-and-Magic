@@ -1,6 +1,6 @@
-Vanity and Magic Inventory Management
-Project Overview
-Este proyecto es una aplicación web integradora desarrollada por Juan Jose Palacios Giraldo, Diego Armando Palacios Cruz y Juan Esteban Canabal Cruz. El objetivo principal de este proyecto es crear un sistema completo de gestión de inventarios para la tienda de maquillaje "Vanity and Magic".
+Vanity and Magic
+
+Este proyecto integrador es una aplicación web desarrollada por Juan Jose Palacios Giraldo, Diego Armando Palacios Cruz y Juan Esteban Canabal Cruz. El objetivo principal de este proyecto es crear un sistema completo de gestión de inventarios para la tienda de maquillaje "Vanity and Magic".
 
 Tecnologías Utilizadas
 Las siguientes tecnologías se utilizan en este proyecto:
