@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Dashboard',
-    to: { name: 'dashboard' },
+    to: { name: 'root' },
     icon: { icon: 'ri-pie-chart-box-line' },
   },
   { heading: 'Accesos' },
@@ -21,12 +21,12 @@ export default [
     children: [
       {
         title: 'Sucursales',
-        to: 'second-page',
+        to: 'dashboards-crm',
         icon: { icon: 'ri-radio-button-line' },
       },
       {
         title: 'Almacenes',
-        to: 'second-page',
+        to: 'dashboards-crm',
         icon: { icon: 'ri-radio-button-line' },
       },
       {
@@ -53,7 +53,7 @@ export default [
     children: [
       {
         title: 'Registrar',
-        to: 'second-page',
+        to: 'dashboards-crm',
         icon: { icon: 'ri-radio-button-line' },
       },
       {
@@ -74,7 +74,7 @@ export default [
     children: [
       {
         title: 'Registrar',
-        to: 'second-page',
+        to: 'dashboards-crm',
         icon: { icon: 'ri-radio-button-line' },
       },
       {
@@ -96,7 +96,7 @@ export default [
     children: [
       {
         title: 'Registrar',
-        to: 'second-page',
+        to: 'dashboards-crm',
         icon: { icon: 'ri-computer-line' },
       },
       {
@@ -112,7 +112,7 @@ export default [
     children: [
       {
         title: 'Registrar',
-        to: 'second-page',
+        to: 'dashboards-crm',
         icon: { icon: 'ri-computer-line' },
       },
       {
